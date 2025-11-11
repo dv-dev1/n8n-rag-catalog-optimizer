@@ -57,4 +57,4 @@ Este repositório serve como um **caso de estudo** para o meu portfólio.
 Por razões éticas e de confidencialidade, os fluxos de trabalho (.json) e os prompts são propriedade da empresa e não estão incluídos. As imagens foram devidamente ofuscadas para proteger a propriedade intelectual.
 
 **Para mais detalhes sobre esta conquista, veja meu post no LinkedIn:**
-[LINK PARA O SEU POST NO LINKEDIN AQUI]
+[https://www.linkedin.com/posts/dv-dev_ia-otimizaaexaeto-n8n-activity-7394121491581227009-x53o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFc_DlQBWo5kg2ycBaxMo2glIyn1uMv7brI]
